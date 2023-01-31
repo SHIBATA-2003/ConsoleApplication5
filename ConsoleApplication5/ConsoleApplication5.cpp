@@ -14,7 +14,7 @@ int main()
     cin >> depth;
     VolumeSurface(width, height, depth, volume, surface);
     cout << "表面積 = " << surface << endl << "体積 = " << volume << endl;
-    string e;
-    cin >> e;
+    string s;
+    cin >> s;
     return 0;
 }
